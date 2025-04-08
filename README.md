@@ -60,11 +60,12 @@ Estas técnicas simulan métodos reales utilizados por actores maliciosos para m
 - Uso de SIEM para correlación de eventos sospechosos
 
 ------
-**Nota:** Este proyecto fue realizado como parte del proceso formativo del bootcamp de ciberseguridad de The Bridge. La máquina analizada es de acceso público y el contenido aquí compartido es de elaboración propia, con fines educativos y demostrativos.
+
 
 
 
 ##  Nota
 
 Este proyecto fue desarrollado exclusivamente con fines educativos y se ejecutó en un entorno de laboratorio simulado. No representa una actividad real de intrusión.
+Este proyecto fue realizado como parte del proceso formativo del bootcamp de ciberseguridad de The Bridge. La máquina analizada es de acceso público y el contenido aquí compartido es de elaboración propia, con fines educativos y demostrativos.
 
