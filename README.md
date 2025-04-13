@@ -1,8 +1,6 @@
 # Proyecto: Técnicas de Persistencia en Metasploitable3
 
 **Autor:** Álvaro Martínez Cutillas  
-**Fecha:** Abril 2025  
-**Entorno:** Bootcamp de Ciberseguridad – The Bridge  
 **Tipo:** Práctica ofensiva – Post-explotación en Linux
 
 ---
@@ -67,5 +65,5 @@ Estas técnicas simulan métodos reales utilizados por actores maliciosos para m
 ##  Nota
 
 Este proyecto fue desarrollado exclusivamente con fines educativos y se ejecutó en un entorno de laboratorio simulado. No representa una actividad real de intrusión.
-Este proyecto fue realizado como parte del proceso formativo del bootcamp de ciberseguridad de The Bridge. La máquina analizada es de acceso público y el contenido aquí compartido es de elaboración propia, con fines educativos y demostrativos.
+Este proyecto fue realizado como parte de un proceso formativo. La máquina analizada es de acceso público y el contenido aquí compartido es de elaboración propia, con fines educativos y demostrativos.
 
